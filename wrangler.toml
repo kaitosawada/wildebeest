@@ -6,7 +6,7 @@ compatibility_date = "2022-12-05"
 node_compat = true
 
 # Specify your account id here so that all commands run agains the correct account.
-# account_id = "<your account id>"
+account_id = "cf889b3f342f5b597616ef7456281b04"
 
 [[d1_databases]]
 binding = "DATABASE"
